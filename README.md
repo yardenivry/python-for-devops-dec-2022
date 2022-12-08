@@ -22,7 +22,8 @@ Build out python project scaffold:
 * Microservice
 
 1.  Create a virtualenv: `virtualenv ~/.venv`
-2. Edit my `~/.bashrc`   
+2. Edit my `~/.bashrc` `source ~/.vene/bin/activate`
+3. Clone project then run `make all`
 
 
 ### AWS Cloudshell
