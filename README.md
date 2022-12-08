@@ -13,10 +13,10 @@ Create development environment that is cloud-based
 
 Build out python project scaffold:
 
-* Makefile
-* requirements.txt
-* test_library.py
-* python_library
+* [Makefile](https://github.com/yardenivry/python-for-devops-dec-2022/blob/main/Makefile)
+* [requirements.txt](https://github.com/yardenivry/python-for-devops-dec-2022/blob/main/requirements.txt)
+* [test_library.py](https://github.com/yardenivry/python-for-devops-dec-2022/blob/main/test_hello.py)
+* [python_library](https://github.com/yardenivry/python-for-devops-dec-2022/tree/main/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservice
