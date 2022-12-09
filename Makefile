@@ -15,6 +15,3 @@ deploy:
 	echo "deploying"
 
 all: install test format deploy
-
-
-	
