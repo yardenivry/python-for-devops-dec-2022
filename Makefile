@@ -14,7 +14,7 @@ format:
 deploy:
 	echo "deploying"
 
-all: install, test, format, deploy
+all: install test format deploy
 
 
 	
