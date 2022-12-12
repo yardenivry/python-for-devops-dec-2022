@@ -25,7 +25,7 @@ Build out python project scaffold:
 2. Edit my `~/.bashrc` `source ~/.venv/bin/activate`
 3. Clone project then run `make all`
 
-
+#### Command Line tool
 ### AWS Cloudshell
 ### AWS Cloud9
 
