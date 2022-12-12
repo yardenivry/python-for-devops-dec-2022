@@ -17,7 +17,7 @@ Build out python project scaffold:
 * [requirements.txt](https://github.com/yardenivry/python-for-devops-dec-2022/blob/main/requirements.txt)
 * [test_library.py](https://github.com/yardenivry/python-for-devops-dec-2022/blob/main/test_hello.py)
 * [python_library](https://github.com/yardenivry/python-for-devops-dec-2022/tree/main/devopslib)
-* Dockerfile
+* [Dockerfile](https://github.com/yardenivry/python-for-devops-dec-2022/blob/main/Dockerfile)
 * command-line-tool
 * Microservice
 
